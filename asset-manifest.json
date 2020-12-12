@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SmartBikeLights/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/SmartBikeLights/static/js/main.07dd2cab.chunk.js",
-    "main.js.map": "/SmartBikeLights/static/js/main.07dd2cab.chunk.js.map",
+    "main.js": "/SmartBikeLights/static/js/main.ee45e918.chunk.js",
+    "main.js.map": "/SmartBikeLights/static/js/main.ee45e918.chunk.js.map",
     "runtime-main.js": "/SmartBikeLights/static/js/runtime-main.81809109.js",
     "runtime-main.js.map": "/SmartBikeLights/static/js/runtime-main.81809109.js.map",
     "static/css/2.49978e52.chunk.css": "/SmartBikeLights/static/css/2.49978e52.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.49978e52.chunk.css",
     "static/js/2.f51cead3.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.07dd2cab.chunk.js"
+    "static/js/main.ee45e918.chunk.js"
   ]
 }
