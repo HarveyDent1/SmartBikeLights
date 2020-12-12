@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/static/js/main.4b9c886e.chunk.js",
-    "main.js.map": "/static/js/main.4b9c886e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3e135b63.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3e135b63.js.map",
-    "static/css/2.49978e52.chunk.css": "/static/css/2.49978e52.chunk.css",
-    "static/js/2.eea78c28.chunk.js": "/static/js/2.eea78c28.chunk.js",
-    "static/js/2.eea78c28.chunk.js.map": "/static/js/2.eea78c28.chunk.js.map",
-    "static/js/3.92dda25b.chunk.js": "/static/js/3.92dda25b.chunk.js",
-    "static/js/3.92dda25b.chunk.js.map": "/static/js/3.92dda25b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.49978e52.chunk.css.map": "/static/css/2.49978e52.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.eea78c28.chunk.js.LICENSE.txt": "/static/js/2.eea78c28.chunk.js.LICENSE.txt"
+    "main.css": "/SmartBikeLights/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/SmartBikeLights/static/js/main.07dd2cab.chunk.js",
+    "main.js.map": "/SmartBikeLights/static/js/main.07dd2cab.chunk.js.map",
+    "runtime-main.js": "/SmartBikeLights/static/js/runtime-main.81809109.js",
+    "runtime-main.js.map": "/SmartBikeLights/static/js/runtime-main.81809109.js.map",
+    "static/css/2.49978e52.chunk.css": "/SmartBikeLights/static/css/2.49978e52.chunk.css",
+    "static/js/2.f51cead3.chunk.js": "/SmartBikeLights/static/js/2.f51cead3.chunk.js",
+    "static/js/2.f51cead3.chunk.js.map": "/SmartBikeLights/static/js/2.f51cead3.chunk.js.map",
+    "static/js/3.f1e7e81e.chunk.js": "/SmartBikeLights/static/js/3.f1e7e81e.chunk.js",
+    "static/js/3.f1e7e81e.chunk.js.map": "/SmartBikeLights/static/js/3.f1e7e81e.chunk.js.map",
+    "index.html": "/SmartBikeLights/index.html",
+    "static/css/2.49978e52.chunk.css.map": "/SmartBikeLights/static/css/2.49978e52.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/SmartBikeLights/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f51cead3.chunk.js.LICENSE.txt": "/SmartBikeLights/static/js/2.f51cead3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e135b63.js",
+    "static/js/runtime-main.81809109.js",
     "static/css/2.49978e52.chunk.css",
-    "static/js/2.eea78c28.chunk.js",
+    "static/js/2.f51cead3.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.4b9c886e.chunk.js"
+    "static/js/main.07dd2cab.chunk.js"
   ]
 }
